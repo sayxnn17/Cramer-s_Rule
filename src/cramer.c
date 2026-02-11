@@ -6,7 +6,7 @@
 #include "cramer.h"
 
 
-// Function : solve_cramer_sequential
+// Function : c_sequential
 //LOGIC 
 
 void c_sequential(double **A, double *b, double *x, int n)
