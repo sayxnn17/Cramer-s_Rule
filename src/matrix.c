@@ -6,8 +6,7 @@
 
 
 // Function: allocateMat
-// Purpose : Dynamically allocates memory for an n x n
-//           matrix in the heap 
+// Purpose : Dynamically allocates memory for an n x n matrix in the heap   
 // Returns : Pointer to the matrix
 
 double **allocateMat(int n)
@@ -29,8 +28,7 @@ double **allocateMat(int n)
 
 
 // Function: copyMat
-// Purpose : Copies contents of one matrix to another
-//           Used when we need temporary matrices
+// Purpose : Copies contents of one matrix (src) to another (dest)
 // Returns : void
 
 void copyMat(double **src, double **dest, int n)
@@ -46,8 +44,7 @@ void copyMat(double **src, double **dest, int n)
 
 
 // Function: replaceCol
-// Purpose : Replaces elements of a specific column col of matrix A
-//           with elements of vector b (Cramer's Rule)
+// Purpose : Replaces elements of a specific column col of matrix A with elements of vector b (Cramer's Rule)
 // Returns : void
 
 void replaceCol(double **A, double *b, int col, int n)
@@ -60,8 +57,7 @@ void replaceCol(double **A, double *b, int col, int n)
 
 
 // Function: freeMat
-// Purpose : Frees memory allocated to matrix
-//           hence preventing memory leaks
+// Purpose : Frees memory allocated to matrix hence preventing memory leaks
 // Returns : void
 
 void freeMat(double **A, int n)
