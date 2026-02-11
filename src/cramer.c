@@ -9,10 +9,7 @@
 // Function : solve_cramer_sequential
 //LOGIC 
 
-void c_sequential(double **A,
-                             double *b,
-                             double *x,
-                             int n)
+void c_sequential(double **A, double *b, double *x, int n)
 {
    
     double **temp;
