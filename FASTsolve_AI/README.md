@@ -64,6 +64,17 @@ The purpose of submitting this AI implementation is to:
 
 ---
 
-## Author
+## Team Members
+
+- **24CS8091** – Indrajit Mondal  
+- **24CS8092** – Sayan Karmakar  
+- **24CS8093** – Gudimetla Vikas  
+- **24CS8094** – Sarthak Vats  
+- **24CS8095** – Indrajit Bag  
+- **24CS8096** – Diptanshu Kumar Shaw  
+- **24CS8097** – Aryak Dey  
+- **24CS8099** – Valuganti Susanth Kumar  
+- **24CS8100** – Devineni Anudeep  
+
 
 
