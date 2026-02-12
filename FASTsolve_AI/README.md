@@ -48,7 +48,7 @@ This helps in understanding how AI structures and optimizes code differently.
 
 ## Files Included
 
-- fastsolve_ai.c → AI generated source code  
+- ai_code.c → AI generated source code  
 - ai_prompt.txt → prompt used to generate the code  
 
 ---
